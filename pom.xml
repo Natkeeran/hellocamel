@@ -39,7 +39,7 @@
 				<archive>
 					<manifest>
 						<addClasspath>true</addClasspath>
-						<mainClass>com.utsc.hellocamel.App</mainClass>
+						<mainClass>com.lab.hellocamel.App</mainClass>
 						<classpathPrefix>dependency-jars/</classpathPrefix>
 					</manifest>
 				</archive>
